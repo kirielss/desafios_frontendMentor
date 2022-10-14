@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+html, body{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%); 
+    font-weight: 400, 700;
+    font-family: "Outfit", sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#mainCard {
+    display: flex;
+    flex-direction: column;
+    height: 24rem;
+    width: 15rem;
+    border-radius: 5%;
+    background-color: hsl(0, 0%, 100%);
+}
+
+#qrCode {
+    scale: 90%;
+    border-radius: 5%;
+}
+
+#headTitle {
+    color: hsl(218, 44%, 22%);
+    font-size: 15px;
+    text-shadow: 1px 0 hsl(218, 44%, 22%);
+    letter-spacing:0.4px;
+    font-weight:bold;
+
+    margin-block-start: -0.7em;
+    
+}
+
+.message  {
+    color: hsl(220, 15%, 55%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 12px;
+    margin: 0px 20px 20px 20px;
+}
+
+
+
+.container-fluid { 
+    font-size: 11px; 
+    text-align: center; 
+    background-color: #0f0f0f; 
+    color:white;
+    position: absolute;
+    bottom: 0;
+    min-width: 100%;
+}
+.container-fluid a { 
+    color: yellow; 
+}
