@@ -8,9 +8,11 @@ Esse é o meu primeiro desafio de nível iniciante concluído.
 
 Proposto pelo Frontend Mentor.
 
-Abaixo seguem instruções originais do site sobre o desafio.
+Obrigado por dar uma conferida!
 
-## Obrigado por dar uma conferida!
+# Abaixo seguem instruções originais do site sobre o desafio.
+
+
 
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
